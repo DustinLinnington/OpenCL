@@ -1,0 +1,6 @@
+﻿  OpenCL.cpp
+c:\users\a00985829\downloads\opencl\opencltest\opencl\opencl.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\a00985829\downloads\opencl\opencltest\opencl\opencl.cpp(106): warning C4018: '<': signed/unsigned mismatch
+c:\users\a00985829\downloads\opencl\opencltest\opencl\opencl.cpp(126): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+  OpenCL.vcxproj -> C:\Users\a00985829\Downloads\OpenCL\OpenCLTest\Debug\OpenCL.exe
+  OpenCL.vcxproj -> C:\Users\a00985829\Downloads\OpenCL\OpenCLTest\Debug\OpenCL.pdb (Partial PDB)

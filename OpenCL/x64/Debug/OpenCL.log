@@ -1,0 +1,2 @@
+﻿  OpenCL.cpp
+c:\users\a00985829\downloads\opencl\openclnotfucked\opencl\opencl.h(13): fatal error C1083: Cannot open include file: 'CL/cl.hpp': No such file or directory
